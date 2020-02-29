@@ -1,0 +1,7 @@
+.bg {
+  background-image: url("https://picsum.photos/1920/1080");
+  height: 30vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

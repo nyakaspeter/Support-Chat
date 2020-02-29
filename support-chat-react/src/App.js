@@ -1,26 +1,20 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import "./App.css";
-import { Counter } from "./features/counter/Counter";
-import { Home } from "./features/home/Home";
-import { NotFound } from "./features/notfound/NotFound";
-import { Layout } from "./features/layout/Layout";
-import { NavigationBar } from "./features/navigationbar/NavigationBar";
+import { Home } from "./components/Home";
+import { NotFound } from "./components/NotFound";
+import { Crisp } from "./components/Crisp";
+import NavigationBar from "./components/NavigationBar";
 
 function App() {
   return (
-    <React.Fragment>
+    <Router forceRefresh={true}>
       <NavigationBar />
-      <Layout>
-        <Router>
-          <Switch>
-            <Route exact path="/" component={Home} />
-            <Route path="/counter" component={Counter} />
-            <Route component={NotFound} />
-          </Switch>
-        </Router>
-      </Layout>
-    </React.Fragment>
+      <Switch>
+        <Route exact path="/crisp" component={Crisp} />
+        <Route exact path="/" component={Home} />
+        <Route component={NotFound} />
+      </Switch>
+    </Router>
   );
 }
 
