@@ -7,13 +7,13 @@ import {
   MDBNavLink,
   MDBNavbarToggler,
   MDBCollapse,
-  MDBIcon
+  MDBIcon,
 } from "mdbreact";
 import "./NavigationBar.css";
 
-export default class NavigationBar extends Component {
+export class NavigationBar extends Component {
   state = {
-    isOpen: false
+    isOpen: false,
   };
 
   toggleCollapse = () => {
@@ -36,6 +36,9 @@ export default class NavigationBar extends Component {
             </MDBNavItem>
             <MDBNavItem>
               <MDBNavLink to="/crisp">Crisp</MDBNavLink>
+            </MDBNavItem>
+            <MDBNavItem>
+              <MDBNavLink to="/rocket">Rocket</MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
               <a
