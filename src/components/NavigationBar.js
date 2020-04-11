@@ -8,6 +8,10 @@ import {
   MDBNavbarToggler,
   MDBCollapse,
   MDBIcon,
+  MDBDropdown,
+  MDBDropdownToggle,
+  MDBDropdownMenu,
+  MDBDropdownItem,
 } from "mdbreact";
 import "./NavigationBar.css";
 
@@ -35,10 +39,29 @@ export class NavigationBar extends Component {
               </MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
-              <MDBNavLink to="/crisp">Crisp</MDBNavLink>
+              <MDBNavLink exact to="/comparison">
+                Összehasonlítás
+              </MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
-              <MDBNavLink to="/rocket">Rocket</MDBNavLink>
+              <MDBDropdown>
+                <MDBDropdownToggle nav caret>
+                  <div className="d-none d-md-inline">Chat megoldások</div>
+                </MDBDropdownToggle>
+                <MDBDropdownMenu className="dropdown-default">
+                  <MDBDropdownItem href="/crisp">Crisp</MDBDropdownItem>
+                  <MDBDropdownItem href="/fresh">Fresh</MDBDropdownItem>
+                  <MDBDropdownItem href="/hubspot">HubSpot</MDBDropdownItem>
+                  <MDBDropdownItem href="/livehelper">
+                    Live Helper Chat
+                  </MDBDropdownItem>
+                  <MDBDropdownItem href="/respond">Respond.io</MDBDropdownItem>
+                  <MDBDropdownItem href="/riot">Riot.im</MDBDropdownItem>
+                  <MDBDropdownItem href="/rocket">Rocket.Chat</MDBDropdownItem>
+                  <MDBDropdownItem href="/tawk">Tawk.to</MDBDropdownItem>
+                  <MDBDropdownItem href="/zammad">Zammad</MDBDropdownItem>
+                </MDBDropdownMenu>
+              </MDBDropdown>
             </MDBNavItem>
             <MDBNavItem>
               <a
