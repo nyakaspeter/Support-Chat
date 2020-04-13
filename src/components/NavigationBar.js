@@ -50,16 +50,19 @@ export class NavigationBar extends Component {
                 </MDBDropdownToggle>
                 <MDBDropdownMenu className="dropdown-default">
                   <MDBDropdownItem href="/crisp">Crisp</MDBDropdownItem>
-                  <MDBDropdownItem href="/fresh">Fresh</MDBDropdownItem>
+                  <MDBDropdownItem href="/fresh">Freshchat</MDBDropdownItem>
                   <MDBDropdownItem href="/hubspot">HubSpot</MDBDropdownItem>
+                  <MDBDropdownItem href="/respond">Respond.io</MDBDropdownItem>
+                  <MDBDropdownItem href="/tawk">Tawk.to</MDBDropdownItem>
+                  <MDBDropdownItem divider />
                   <MDBDropdownItem href="/livehelper">
                     Live Helper Chat
                   </MDBDropdownItem>
-                  <MDBDropdownItem href="/respond">Respond.io</MDBDropdownItem>
                   <MDBDropdownItem href="/riot">Riot.im</MDBDropdownItem>
                   <MDBDropdownItem href="/rocket">Rocket.Chat</MDBDropdownItem>
-                  <MDBDropdownItem href="/tawk">Tawk.to</MDBDropdownItem>
-                  <MDBDropdownItem href="/zammad">Zammad</MDBDropdownItem>
+                  <MDBDropdownItem href="/zammad">
+                    Zammad Community
+                  </MDBDropdownItem>
                 </MDBDropdownMenu>
               </MDBDropdown>
             </MDBNavItem>

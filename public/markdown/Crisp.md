@@ -1,4 +1,4 @@
-﻿# <center>Crisp.Chat</center>
+﻿# <center>Crisp</center>
 
 Crisp Live Chat is a free and beautiful chat for your website. This is
 the ultimate free Live Chat plugin for WordPress if you want to grow
