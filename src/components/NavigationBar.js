@@ -60,9 +60,7 @@ export class NavigationBar extends Component {
                   </MDBDropdownItem>
                   <MDBDropdownItem href="/riot">Riot.im</MDBDropdownItem>
                   <MDBDropdownItem href="/rocket">Rocket.Chat</MDBDropdownItem>
-                  <MDBDropdownItem href="/zammad">
-                    Zammad Community
-                  </MDBDropdownItem>
+                  <MDBDropdownItem href="/zammad">Zammad</MDBDropdownItem>
                 </MDBDropdownMenu>
               </MDBDropdown>
             </MDBNavItem>

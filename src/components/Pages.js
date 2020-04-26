@@ -116,6 +116,21 @@ export function Rocket() {
 export function Zammad() {
   return (
     <>
+      <PostScribe
+        html={`<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script src="https://zammad.gyeko.tv/assets/chat/chat.min.js"></script>
+        <script>
+        $(function() {
+          new ZammadChat({
+            background: 'rgb(49,157,98)',
+            fontSize: '12px',
+            flat: true,
+            chatId: 1,
+            host: 'wss://zammad.gyeko.tv/ws'
+          });
+        });
+        </script>`}
+      />
       <MarkdownComponent markdown="Zammad.md" />
     </>
   );
