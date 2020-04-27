@@ -11,7 +11,6 @@ import {
   Respond,
   Tawk,
   LiveHelper,
-  Riot,
   Rocket,
   Zammad,
 } from "./components/Pages";
@@ -27,7 +26,6 @@ function App() {
         <Route exact path="/hubspot" component={HubSpot} />
         <Route exact path="/livehelper" component={LiveHelper} />
         <Route exact path="/respond" component={Respond} />
-        <Route exact path="/riot" component={Riot} />
         <Route exact path="/rocket" component={Rocket} />
         <Route exact path="/tawk" component={Tawk} />
         <Route exact path="/zammad" component={Zammad} />

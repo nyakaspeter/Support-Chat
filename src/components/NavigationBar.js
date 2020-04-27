@@ -58,7 +58,6 @@ export class NavigationBar extends Component {
                   <MDBDropdownItem href="/livehelper">
                     Live Helper Chat
                   </MDBDropdownItem>
-                  <MDBDropdownItem href="/riot">Riot.im</MDBDropdownItem>
                   <MDBDropdownItem href="/rocket">Rocket.Chat</MDBDropdownItem>
                   <MDBDropdownItem href="/zammad">Zammad</MDBDropdownItem>
                 </MDBDropdownMenu>
