@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="images\crm.jpg" />
+</p>
+
 # <center>Live Chat: Standard Software Features</center>
 
 Knowing what’s commonly available from live chat programs makes it easier to differentiate one option from another.

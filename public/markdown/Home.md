@@ -1,4 +1,13 @@
-﻿# <center>A téma leírása</center>
+﻿# <center>Az oldal célja</center>
+
+A weboldal a Budapesti Műszaki és Gazdaságtudományi Egyetem mérnökinformatikus MSc képzésének Önálló laboratórium 1 (VIAUML00) tárgyára készült beadandó feladatként a "Support chat megoldás készítése" témára.
+Az oldal elkészítésének célja ingyenes support-chat megoldások, illetve CRM (Customer Relationship Management) rendszerek felderítése és megismerése volt.
+
+A jobb felső sarokban található "Chat megoldások" lenyíló menüben megtalálhatók a tesztelt chat szolgáltatások.
+Mindegyik oldalán olvasható az adott szolgáltatás rövid értékelése és egy leírás az üzembehelyezés lépéseiről. Valamint a jobb alsó sarokban kipróbálhatók a konkrét chat widgetek.
+Az összehasonlítás menüpontban pedig az összes tesztelt chat szolgáltatás funkcióinak összegzése található. A téma eredeti kedvcsinálója alább olvasható.
+
+# <center>A téma leírása</center>
 
 Webalkalmazásokban egyre gyakoribb az élőben elérhető chates támogatás,
 ennek segítségével a felhasználók gyorsan kapcsolatba léphetnek az

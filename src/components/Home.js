@@ -20,8 +20,7 @@ export class Home extends Component {
                   </h3>
                   <hr className="hr-light my-4 w-75" />
                   <h4 className="subtext-header mt-2 mb-4">
-                    Ez az oldal ingyenesen elérhető support-chat megoldások
-                    tesztelésére jött létre
+                    Ingyenesen elérhető support-chat megoldások
                   </h4>
                 </MDBCol>
               </MDBRow>

@@ -1,26 +1,32 @@
 ﻿# <center>Crisp</center>
 
-Crisp Live Chat is a free and beautiful chat for your website. This is
-the ultimate free Live Chat plugin for WordPress if you want to grow
-your email list, generate leads, and enhance your customer relationship
-within the same software. The free plugin includes live chat, Real-time
-notifications, Desktop apps, Mobile apps, Availability schedule. All
-these features work immediately with no developer help needed. By adding
-this plugin to your WordPress site, you’ll gain access to Crisp Inbox
-for Marketing, Sales, and Support teams, as well as Crisp Helpdesk, our
-free online educational resources that will help you to better use Crisp
-and support your customers.
-
-- Website: https://crisp.chat/en/
-- Price: Free – \$95/month (details)
-- Free Option: Yes, 2 seats included
+A Crisp kifejezetten a weboldalakra elhelyezhető chat ablakokra és a közösségi médián keresztül elérhető support chat megoldásokra specializálódott. Segítségével pillanatok alatt integrálhatók ügyfélszolgálati megoldások saját weboldalunkba.
 
 <p align="center">
-    <img src="https://i1.wp.com/mailshake.com/blog/wp-content/uploads/2019/04/word-image-51.png?resize=768%2C363&amp;ssl=1" />
+    <img src="images\crisp1.png" width="800" />
 </p>
 
-Like many of the live chat tools featured here, Crisp uses chat windows to support customer messaging and feedback gathering. What’s unique, however, is what you can do with this data after it’s captured.
+### Előnyök
 
-Companies with longer sales cycles, for example, will enjoy the ability to send drip marketing campaigns from the program, based on data gathered by Crisp. The program’s sales pipeline automation tools will also appeal to those with sophisticated sales programs.
+- Letisztult, célratörő admin felület
+- Jól testreszabható, igényes chat ablak
+- Van mobil- és asztali kliensalkalmazás
+- Korlátlan számú üzenet küldhető havonta
+- Az oldal látogatói nyomon követők élőben
 
-Another interesting feature: a status monitoring system that alerts customers to outages as they’re detected. SaaS companies that promise certain uptimes may benefit from these proactive communications.
+### Hátrányok
+
+- 2 support ügynök lehet maximum az ingyenes csomagban
+- Sok nagyon jó lehetőség csak a fizetős változatban érhető el
+
+## Telepítés lépései
+
+- Regisztráció a következő oldalon lehetséges: https://crisp.chat/en/. Regisztrációt követően az admin felületre kerülünk:
+
+<p align="center">
+    <img src="images\crisp2.png" width="800" />
+</p>
+
+- Bal oldalt a Settings menübe kell belépni, itt a Website Settings-ben fel kell venni a weboldalt, ahova el szeretnénk helyezni a chat widgetet
+- A felvett oldal mellett az Integrations gombra kattintva megjelenik egy felugró ablak, ami az integrációs lehetőségeket tartalmazza
+- A HTML opciót kiválasztva megkapjuk a script tagek közti JavaScript kódot, amit a weboldal HTML-jébe beillesztve meg is jelenik a chat widget az oldalon

@@ -1,15 +1,30 @@
-﻿# <center>Respond.io (Rocketbots)</center>
+﻿# <center>Respond.io</center>
 
-- Website: https://respond.io
-- Price: Free – \$99/month (details)
-- Free Option: Yes, up to 1,000 messages per month
+A Respond.io a korábbi Rocketbots platform rebrandeléséből alakult ki. Nevéből adódóan nagy hangsúlyt fektettek az AI alapú chatbotokra. A Respond.io azonban más területen próbálkozik. Különlegessége, hogy számos népszerű közösségi média és IM (Instant Messaging) szolgáltatás összeintegrálható vele.
 
 <p align="center">
-    <img src="https://i0.wp.com/mailshake.com/blog/wp-content/uploads/2019/04/word-image-39.png?resize=768%2C377&ssl=1" />
+    <img src="images\respond1.png" width="800" />
 </p>
 
-Rocketbots straddles the line between live chat tool and CRM. Not only does the program integrate with multiple messaging apps – including Facebook Messenger, WeChat, Slack and Kik – it captures the information gathered on these platforms to facilitate more effective messaging.
+### Előnyök
 
-Rocketbots calls itself a “self-learning system,” stating that it includes an “AI that learns from your conversations and suggests the replies you’ve already used when similar inquiries come up later. The more conversations you have, the smarter it gets.”
+- Jól testreszabható chat widget
+- Sokféle kommunikációs csatornával integrálható (Messenger, WhatsApp, Telegram, Viber...)
+- Van mobilalkalmazás
 
-Because the program offers a free trial with no credit card required, it’s worth a look if you’re looking for a more advanced chat system that spans multiple platforms.
+### Hátrányok
+
+- Max. 5 support ügynök lehet az ingyenes verzióban
+- Csak havi 100 beszélgetésig ingyenes
+
+## Telepítés lépései
+
+- Regisztráció a következő oldalon lehetséges: https://respond.io/. Regisztrációt követően az admin felületre kerülünk.
+- Az admin dashboard Settings menüjében a Channels opciót kell kiválasztani, itt pedig az Add Channel gombra kattintani
+
+<p align="center">
+    <img src="images\respond2.png" width="800" />
+</p>
+
+- A Web Chat kiválasztásával hozhatunk létre chat widgetet. A Web Chat Customize gombjára kattintva testreszabható a widget megjelenése
+- A popup ablak alján található a HTML kód, amit a weboldal HTML-jébe beillesztve meg is jelenik a chat widget az oldalon
