@@ -19,6 +19,8 @@ A HubSpot egy teljeskörű CRM rendszert kínál ingyen. Ennek része a webes su
 
 - A nagyobb funkcionalitás miatt könnyebb elveszni az admin dashboardon
 
+<p>&nbsp;</p>
+
 ## Telepítés lépései
 
 - Regisztráció a következő oldalon lehetséges: https://www.hubspot.com/. Regisztrációt követően az admin felületre kerülünk:

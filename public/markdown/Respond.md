@@ -17,6 +17,8 @@ A Respond.io a korábbi Rocketbots platform rebrandeléséből alakult ki. Nevé
 - Max. 5 support ügynök lehet az ingyenes verzióban
 - Csak havi 100 beszélgetésig ingyenes
 
+<p>&nbsp;</p>
+
 ## Telepítés lépései
 
 - Regisztráció a következő oldalon lehetséges: https://respond.io/. Regisztrációt követően az admin felületre kerülünk.

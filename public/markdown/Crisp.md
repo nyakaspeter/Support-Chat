@@ -19,6 +19,8 @@ A Crisp kifejezetten a weboldalakra elhelyezhető chat ablakokra és a közöss�
 - 2 support ügynök lehet maximum az ingyenes csomagban
 - Sok nagyon jó lehetőség csak a fizetős változatban érhető el
 
+<p>&nbsp;</p>
+
 ## Telepítés lépései
 
 - Regisztráció a következő oldalon lehetséges: https://crisp.chat/en/. Regisztrációt követően az admin felületre kerülünk:

@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="images\crm.jpg" />
+    <img src="images\crm.jpg" width="400"/>
 </p>
 
-# <center>Live Chat: Standard Software Features</center>
+# <center>Support Chat szolgáltatások</center>
 
 Knowing what’s commonly available from live chat programs makes it easier to differentiate one option from another.
 

@@ -4,7 +4,7 @@ import { Home } from "./components/Home";
 import { NotFound } from "./components/NotFound";
 import { NavigationBar } from "./components/NavigationBar";
 import {
-  Comparison,
+  Summary,
   Crisp,
   Fresh,
   HubSpot,
@@ -20,7 +20,7 @@ function App() {
     <Router forceRefresh={true}>
       <NavigationBar />
       <Switch>
-        <Route exact path="/comparison" component={Comparison} />
+        <Route exact path="/summary" component={Summary} />
         <Route exact path="/crisp" component={Crisp} />
         <Route exact path="/fresh" component={Fresh} />
         <Route exact path="/hubspot" component={HubSpot} />

@@ -2,10 +2,10 @@ import React from "react";
 import { PostScribe } from "react-postscribe";
 import { MarkdownComponent } from "./MarkdownComponent";
 
-export function Comparison() {
+export function Summary() {
   return (
     <>
-      <MarkdownComponent markdown="Comparison.md" />
+      <MarkdownComponent markdown="Summary.md" />
     </>
   );
 }

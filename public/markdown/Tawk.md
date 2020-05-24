@@ -17,6 +17,8 @@ A Tawk egy teljesen ingyenes support chat megoldás. Letisztultsága a Crisp.Cha
 
 - Közösségi média/IM platformokkal nem integrálható
 
+<p>&nbsp;</p>
+
 ## Telepítés lépései
 
 - Regisztráció a következő oldalon lehetséges: https://www.tawk.to/. Regisztrációt követően az admin felületre kerülünk:

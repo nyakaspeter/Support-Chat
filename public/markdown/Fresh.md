@@ -19,6 +19,8 @@ A Freshchat szolgáltatás a jóval kiterjedtebb funkcionalitással rendelkező 
 - Havi 10 000 látogatóig ingyenes
 - 30 napig marad csak meg a chat history
 
+<p>&nbsp;</p>
+
 ## Telepítés lépései
 
 - Regisztráció a következő oldalon lehetséges: https://www.freshworks.com/live-chat-software/signup/. Regisztrációt követően az admin felületre kerülünk:

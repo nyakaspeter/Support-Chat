@@ -39,8 +39,8 @@ export class NavigationBar extends Component {
               </MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
-              <MDBNavLink exact to="/comparison">
-                Összehasonlítás
+              <MDBNavLink exact to="/summary">
+                Összefoglalás
               </MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
