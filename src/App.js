@@ -1,7 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Home } from "./components/Home";
-import { NotFound } from "./components/NotFound";
 import { NavigationBar } from "./components/NavigationBar";
 import {
   Summary,
@@ -13,6 +12,7 @@ import {
   LiveHelper,
   Rocket,
   Zammad,
+  NotFound,
 } from "./components/Pages";
 
 function App() {

@@ -2,6 +2,14 @@ import React from "react";
 import { PostScribe } from "react-postscribe";
 import { MarkdownComponent } from "./MarkdownComponent";
 
+export function NotFound() {
+  return (
+    <>
+      <MarkdownComponent markdown="404.md" />
+    </>
+  );
+}
+
 export function Summary() {
   return (
     <>
