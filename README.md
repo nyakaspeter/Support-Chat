@@ -1,6 +1,6 @@
 # Support Chat
 
-A simple website to try out and learn about some free support chat solutions amd CRM (Customer Relationship Management) systems. Feel free to browse it at [support-chat-react.herokuapp.com](https://support-chat-react.herokuapp.com) The site is written in Hungarian language.
+A simple website to try out and learn about some free support chat solutions amd CRM (Customer Relationship Management) systems. The site is written in Hungarian language.
 
 ## Screenshots
 
